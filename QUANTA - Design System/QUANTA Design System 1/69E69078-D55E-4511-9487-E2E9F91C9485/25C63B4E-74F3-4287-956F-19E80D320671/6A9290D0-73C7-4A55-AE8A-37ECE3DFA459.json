@@ -9,39 +9,41 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1921568627450978,
-            "green": 0.1137254901960785,
-            "red": 1
+            "blue": 0.2784313725490196,
+            "green": 0.1254901960784314,
+            "red": 0.007843137254901919
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProText-Medium",
-              "size": 12
+              "name": "Helvetica-Bold",
+              "size": 32
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 15,
-            "minimumLineHeight": 15
+            "alignment": 1,
+            "baseWritingDirection": 0,
+            "headerLevel": 1,
+            "maximumLineHeight": 32,
+            "minimumLineHeight": 32
           }
         },
-        "length": 13,
+        "length": 44,
         "location": 0
       }
     ],
-    "string": "Alert Message"
+    "string": "This introduces the major sections of a page"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "1DC07DCE-6A8C-4E91-AFA5-99959A7984C0",
+  "do_objectID": "6A9290D0-73C7-4A55-AE8A-37ECE3DFA459",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "4BDEA275-F6DE-4DE7-8213-416EC38A3E11",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,12 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 250,
-    "x": 52,
-    "y": 2
+    "do_objectID": "DA3EB2D3-FF1C-44D5-943F-CE3EC843F582",
+    "height": 32,
+    "width": 680,
+    "x": 0,
+    "y": 27
   },
-  "glyphBounds": "{{0, 3}, {83, 12}}",
+  "glyphBounds": "{{0, 1}, {679, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,54 +69,56 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Alert Message",
+  "name": "This introduces the",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "21927CD2-A88D-48A5-A9D8-F6DCE80E697C",
+  "sharedStyleID": "F8BA482A-BF27-4D5C-AE51-75561DCB05FA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5C068F94-6E61-495E-8827-C26BABB65AE0",
+    "do_objectID": "3AC4C903-C091-4FB5-97F0-9D486B714957",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "0EC70148-ED8C-49DC-92EF-5A9B65648E48",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1921568627450978,
-          "green": 0.1137254901960785,
-          "red": 1
+          "blue": 0.2784313725490196,
+          "green": 0.1254901960784314,
+          "red": 0.007843137254901919
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProText-Medium",
-            "size": 12
+            "name": "Helvetica-Bold",
+            "size": 32
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 15,
-          "minimumLineHeight": 15
+          "alignment": 1,
+          "baseWritingDirection": 0,
+          "headerLevel": 1,
+          "maximumLineHeight": 32,
+          "minimumLineHeight": 32
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

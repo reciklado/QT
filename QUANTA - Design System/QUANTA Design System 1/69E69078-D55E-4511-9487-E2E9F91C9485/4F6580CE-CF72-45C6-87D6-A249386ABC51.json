@@ -9,39 +9,41 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1921568627450978,
-            "green": 0.1137254901960785,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProText-Medium",
-              "size": 12
+              "name": "HelveticaNeue",
+              "size": 28
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 15,
-            "minimumLineHeight": 15
+            "baseWritingDirection": 0,
+            "headerLevel": 1,
+            "maximumLineHeight": 32,
+            "minimumLineHeight": 32
           }
         },
-        "length": 13,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Alert Message"
+    "string": "Bullet List"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "1DC07DCE-6A8C-4E91-AFA5-99959A7984C0",
+  "do_objectID": "4F6580CE-CF72-45C6-87D6-A249386ABC51",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "6A2F3207-9B72-431D-966C-F9D09B21F35E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,12 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 250,
-    "x": 52,
-    "y": 2
+    "do_objectID": "8D7342FC-ABAF-46B2-8772-FDD204F27559",
+    "height": 32,
+    "width": 285,
+    "x": 564,
+    "y": 1130
   },
-  "glyphBounds": "{{0, 3}, {83, 12}}",
+  "glyphBounds": "{{2, 7}, {121, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,43 +69,44 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Alert Message",
+  "name": "Bullet List",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "21927CD2-A88D-48A5-A9D8-F6DCE80E697C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5C068F94-6E61-495E-8827-C26BABB65AE0",
+    "do_objectID": "8ABBE72D-4C57-4FBC-94B5-5222E8A11AD8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "7083604B-7BC0-4C53-BCC4-2833F8C73C2B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1921568627450978,
-          "green": 0.1137254901960785,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProText-Medium",
-            "size": 12
+            "name": "HelveticaNeue",
+            "size": 28
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 15,
-          "minimumLineHeight": 15
+          "baseWritingDirection": 0,
+          "headerLevel": 1,
+          "maximumLineHeight": 32,
+          "minimumLineHeight": 32
         }
       },
       "verticalAlignment": 0

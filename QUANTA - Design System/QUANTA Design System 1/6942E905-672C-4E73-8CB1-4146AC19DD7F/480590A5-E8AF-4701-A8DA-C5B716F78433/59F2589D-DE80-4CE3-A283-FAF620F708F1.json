@@ -30,11 +30,11 @@
             "minimumLineHeight": 32
           }
         },
-        "length": 9,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Headlines"
+    "string": "Headlines/Left"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -56,11 +56,11 @@
     "constrainProportions": false,
     "do_objectID": "A1B4A3DB-BDC2-4F79-A88F-B60BAE8FD61A",
     "height": 32,
-    "width": 142,
+    "width": 195,
     "x": 33,
     "y": 18
   },
-  "glyphBounds": "{{1, 7}, {131, 21}}",
+  "glyphBounds": "{{1, 6}, {194, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Headlines",
+  "name": "Headlines/Left",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -113,7 +113,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
