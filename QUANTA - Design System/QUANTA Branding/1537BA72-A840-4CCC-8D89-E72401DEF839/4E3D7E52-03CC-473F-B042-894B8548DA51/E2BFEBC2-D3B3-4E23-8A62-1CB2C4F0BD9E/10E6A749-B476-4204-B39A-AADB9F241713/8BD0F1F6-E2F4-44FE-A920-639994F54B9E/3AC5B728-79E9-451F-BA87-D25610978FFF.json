@@ -1,0 +1,84 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "3AC5B728-79E9-451F-BA87-D25610978FFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "59426979-BB9E-46D2-BE10-9AEB0D910C3F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B6E67D1C-1319-42D8-86E6-25C60D7B0856",
+    "height": 482,
+    "width": 623,
+    "x": 829,
+    "y": 39
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/4bc656d469f170c1fd6a3fcc65a63c901c9c384b.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0.0674619932432432,
+      "contrast": 1.168496621621622,
+      "do_objectID": "E0F685FF-42CA-4DB4-9EA5-10979023DD65",
+      "hue": -3.141592653589793,
+      "isEnabled": true,
+      "saturation": 0
+    },
+    "do_objectID": "FA981BC2-B3BF-4674-A1CF-3451EFD754EA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 482,
+            "enabled": 1,
+            "modelID": "constraint_4aefddf9-6a97-4cb0-a686-9ae7edf27ffa",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 622.6919
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b2ff6a03-d0e7-4d6e-9273-57cd436ccc48",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

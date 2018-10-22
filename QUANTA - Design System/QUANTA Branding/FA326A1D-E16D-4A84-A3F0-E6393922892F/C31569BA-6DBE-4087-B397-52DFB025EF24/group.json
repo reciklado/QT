@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C31569BA-6DBE-4087-B397-52DFB025EF24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "257F9A0C-4833-4BBD-AFD8-931220AECAD5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E99A5162-BE0B-4447-A6C0-7702F1708272",
+    "height": 640,
+    "width": 1276,
+    "x": 1987,
+    "y": 1542
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A8C0B436-8F3C-4BCE-85D2-250F07D4EBCC"
+    },
+    {
+      "class": "text",
+      "id": "D2752D80-A042-4437-AC06-22DAF380FA64"
+    }
+  ],
+  "name": "Bitmap + Combined Shape Copy 4 + Instant liquidity Mask Copy Copy Copy Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "EB24BD00-D907-4650-961A-D45AE4A6C05F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.2,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "FA43A9A5-3D71-4DCC-AA63-64EF1A530171",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

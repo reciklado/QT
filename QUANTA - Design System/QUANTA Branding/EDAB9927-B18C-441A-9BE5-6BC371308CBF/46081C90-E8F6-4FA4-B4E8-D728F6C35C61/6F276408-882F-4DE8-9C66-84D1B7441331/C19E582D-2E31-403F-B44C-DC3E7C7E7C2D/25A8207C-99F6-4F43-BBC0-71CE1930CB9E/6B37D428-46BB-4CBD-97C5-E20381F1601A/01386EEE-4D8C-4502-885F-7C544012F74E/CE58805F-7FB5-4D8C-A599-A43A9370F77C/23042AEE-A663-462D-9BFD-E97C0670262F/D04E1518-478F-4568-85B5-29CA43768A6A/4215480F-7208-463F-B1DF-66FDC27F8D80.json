@@ -1,0 +1,145 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4215480F-7208-463F-B1DF-66FDC27F8D80",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A75A19D-9AF5-4E45-BF31-D614C55266E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC38F76B-5EF9-4040-B6F4-631050DE53F5",
+    "height": 2.947093816485555,
+    "width": 3.687312459154427,
+    "x": 22.22530996481773,
+    "y": 20.96116504854353
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Fill 35 Copy 5",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.0708183298059217, 0.52152135861809512}",
+      "curveMode": 4,
+      "curveTo": "{0.94631257579502259, 0.2749965009746011}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.94631257579502259, 0.2749965009746011}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.47901522865969215, 1.0705969829753503}",
+      "curveMode": 2,
+      "curveTo": "{0.97132059848905838, 0.82238917651288757}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.7248740158717738, 0.94627592505780067}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.069077268717904691, 0.48069627759014755}",
+      "curveMode": 2,
+      "curveTo": "{0.18030829092538864, 0.9719544667150074}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.053291047455899292, 0.72466956766939672}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.26901196116491216, 0.05659317520939882}",
+      "curveMode": 4,
+      "curveTo": "{0.026466202600331508, 0.18227144991644323}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.26644703576039569, 0.058004680670472028}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.52010747107788202, -0.070605182301875652}",
+      "curveMode": 3,
+      "curveTo": "{0.27157688656942869, 0.055344535763067089}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.2743021198117267, 0.053987318973572312}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.94663319147058556, 0.2749965009746011}",
+      "curveMode": 4,
+      "curveTo": "{0.81902815259589634, 0.027603024585830461}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.94663319147058556, 0.2749965009746011}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A30619D7-4C5D-4DB8-B134-AD613024EEA5",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.377553441108548,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "0C6F851C-01A4-4B2B-949B-75CE332797CC",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9999368786811829,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

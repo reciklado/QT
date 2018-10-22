@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D408ADF3-1F66-4A26-8111-95F6083AF86A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DCEEA962-DAF0-4E6F-BBF5-82135C42F7C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B6DBBA0C-1193-4701-8CC8-B6B59649F8C1",
+    "height": 55.17353787152445,
+    "width": 49.58815097945535,
+    "x": 8,
+    "y": 2.99999999999994
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EAAAF227-9CA1-42B1-B1E5-7C475525D31E"
+    }
+  ],
+  "name": "icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A4155743-8A56-48D3-9C9D-B952A9D12C06",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 24,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "139317BC-7E6C-45AF-ADF7-B88BE484256A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 55.17354,
+            "enabled": 1,
+            "modelID": "constraint_fa7383d2-d7f2-484c-a3dc-b914912ef513",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 49.58815
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_beeef4c9-25ee-4661-90c1-3ddcefa9dc79",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

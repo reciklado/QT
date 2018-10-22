@@ -1,0 +1,103 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "86238A14-8E10-4D9E-A5BD-0A1F940BF5C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2CE4E145-0701-44FD-8433-976F081D588D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "133079E1-65BE-4567-AFC0-B06478FF106C",
+    "height": 126.3867403314917,
+    "width": 126.3456790123455,
+    "x": 1017.358273728662,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a678f5e786efc56d18fc7d4263695752f2f62d96.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "50F4D1FD-114A-4CE0-9781-BCFB47AB77A8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.221941801385682,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "550101B3-A369-4E25-BFDD-AC3368572FCF",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9999368786811829,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 126.3867,
+            "enabled": 1,
+            "modelID": "constraint_67efd16e-7952-4135-b247-add36ae5c7cd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 126.3457
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_7d59fb3b-0de8-48f1-b270-e0ad444fa9ae",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "45F56364-5793-4138-AC8E-671B8001D690",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF8AAA0F-914C-4C18-ABB3-5EE85BA65C6D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9356226-D2BF-45E8-90EE-0AADB7991609",
+    "height": 249,
+    "width": 301,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "80DFA3E2-33C5-4C5B-B23C-291399E8CED3"
+    },
+    {
+      "class": "group",
+      "id": "DD865149-D449-40B7-AFC0-ABFD9400466C"
+    }
+  ],
+  "name": "advancedTraderInterface",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7B5715A9-588A-4D03-B0D1-7B9EA82A3632",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 29.568,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "B87CCBF7-C000-4486-9F90-F82B8CA578FC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

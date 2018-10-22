@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2D26735D-4C97-4D77-9984-4CA98FC30179",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5FD66D6-7B67-4BEE-8D46-C4F32B248B0F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D0C944CE-A856-49F4-BFC9-4A77835A0FF7",
+    "height": 49.27402576502001,
+    "width": 53.88214021405906,
+    "x": 760.659432891272,
+    "y": 134.2021276595751
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1F4CB35D-8151-4310-8BFA-C9C837459B39"
+    },
+    {
+      "class": "shapePath",
+      "id": "F5A36BA2-4F41-476E-83F6-16B79016E947"
+    }
+  ],
+  "name": "Combined Shape Copy 18",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA039CB7-FB0C-4426-956B-F8CD1CDD76C2",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5873479843139648,
+          "green": 0.3970861732959747,
+          "red": 0.4020573198795319
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 0
+}

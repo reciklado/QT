@@ -1,0 +1,102 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A108F3AB-D83E-4717-BF12-79295EDA4C17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FDDCB8A1-5C1E-4B1C-9648-6B6F8BC48A12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6FB571D5-361E-4516-AC72-7653D3BD136E",
+    "height": 424.77063552,
+    "width": 428.4589478400001,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "C23A8845-34EF-48F1-9CDC-29402875C56B"
+    },
+    {
+      "class": "oval",
+      "id": "9E355AD1-2CF6-40D6-B27C-2AB53FA31ED0"
+    },
+    {
+      "class": "shapePath",
+      "id": "D62F1226-023F-4339-A3AF-32D16495B39E"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "8B8458CB-D9EB-4F9F-8B40-938357A63167",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2085482B-B37F-4600-BBAA-BD09FA7D5DF5",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8235294117647058,
+          "green": 0.2705882352941176,
+          "red": 0.3137254901960782
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 424.7706,
+            "enabled": 1,
+            "modelID": "constraint_83f9c117-c19c-44d8-8c23-f756f64ea10a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 428.459
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_7ae20be6-faad-4661-a667-0d87a985695f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

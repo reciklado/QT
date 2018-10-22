@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1151CE32-BD50-4EFF-99E5-9FC4F2C02331",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F65E5E9A-89DD-437E-B390-89F7FEBE5C65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "19ADCBBA-82B2-4A1D-A69E-717C29DFEFB5",
+    "height": 28,
+    "width": 29,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0D721C03-C04C-4A4C-892F-65C84E25CF7C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A7D94AD-2ED7-4500-AD37-4812CF932A01"
+    },
+    {
+      "class": "shapePath",
+      "id": "0EDD365E-0AD7-40B1-A39B-651C801FC2FD"
+    }
+  ],
+  "name": "Rectangle 8_Isometric Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "10BB2B74-E215-4175-9927-D1B848CA4314",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "C8836611-E011-48B7-A5CC-B9CE79F4A49F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 20,
+            "enabled": 1,
+            "modelID": "constraint_374351c1-9f21-4c97-9c85-7caf1de76623",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 29
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_544d69fd-34ff-4cc5-ac36-5a1645d6b0b0",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

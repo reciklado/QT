@@ -1,0 +1,100 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5D82454-A957-47AD-9722-FF1EB7D96F24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80C25265-2996-4757-AADC-1D4F60A2486C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ABAB8AB6-EF07-4BCE-AC30-582CEC9BC529",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4C59AD56-3193-4A9F-86CD-25B8ABDEAA00"
+    },
+    {
+      "class": "shapePath",
+      "id": "346D982C-A095-4845-ACBF-22A49172412D"
+    },
+    {
+      "class": "rectangle",
+      "id": "55A674B4-251E-4170-98F1-B74B2249EBCC"
+    },
+    {
+      "class": "rectangle",
+      "id": "48C58AA4-AB49-47F0-A788-3AB79854F09C"
+    },
+    {
+      "class": "rectangle",
+      "id": "37F21F01-5C19-45FC-8160-935DAD5EAA1A"
+    },
+    {
+      "class": "rectangle",
+      "id": "D137576F-7E04-459D-8FD5-DF8EE2FE9C6C"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "originalObjectID": "72EF0FF3-A77A-497C-8094-30E251787B0F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "8B8458CB-D9EB-4F9F-8B40-938357A63167",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A383F972-CB4A-4F1F-BFB1-C42D91830683",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8235294117647058,
+          "green": 0.2705882352941176,
+          "red": 0.3137254901960782
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

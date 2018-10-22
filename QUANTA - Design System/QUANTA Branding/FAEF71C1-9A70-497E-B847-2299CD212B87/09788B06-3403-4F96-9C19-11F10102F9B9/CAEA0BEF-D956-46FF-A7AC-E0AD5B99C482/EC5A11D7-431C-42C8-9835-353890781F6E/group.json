@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC5A11D7-431C-42C8-9835-353890781F6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4736567D-D1B2-4081-A5D8-E55B75032EEC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C7AD38F6-CE7A-45E7-B6B7-8E3D2F9CCFCD",
+    "height": 84,
+    "width": 103,
+    "x": 770,
+    "y": 637
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "21378E8F-7C34-4E0B-BA24-A46454E58332"
+    },
+    {
+      "class": "rectangle",
+      "id": "BF3218FF-723B-4C9C-AD2A-827D0C0E6AA9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "802500AF-DA3F-4DCF-8239-5231C4F411C3"
+    }
+  ],
+  "name": "Group 53 Copy 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "344EDB77-39D1-4F0C-8556-24255DA905FA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "AA954001-1953-47F7-9066-BC2812F322E1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F720381-5259-4AD0-ABAB-74686C7F2D89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13DCF566-587E-4C14-BF31-D602A814357F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C13CFAA8-4053-4A14-94B3-9B77CCA77E1E",
+    "height": 640,
+    "width": 1276,
+    "x": 349,
+    "y": 2837
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CD179D7B-AE37-44C7-B795-88853FEDD092"
+    },
+    {
+      "class": "bitmap",
+      "id": "D09F4EF2-AB82-481C-8913-85D1B9C87583"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2FD9BFA5-490D-4246-9FDB-CA25FA0B05DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F8D066A9-B4D1-4447-B195-A334029CF9E9"
+    }
+  ],
+  "name": "Bitmap + Combined Shape Copy 4 + Instant liquidity Mask Copy Copy Copy Copy Copy Copy Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E51AF137-6AC6-422C-95E4-2C0730F990F6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.2,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8FFA07F8-63F6-40EA-8D66-35E0E11A48F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

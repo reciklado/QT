@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBC3C800-1228-4922-8E77-522D8D0B408A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "457BF7E1-56A3-4B8D-BCDE-67C0F2DBA419",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AEFE42B7-92BD-4B38-B389-1E78BAE206B2",
+    "height": 279,
+    "width": 274,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3DB94989-E46D-4782-B763-9C12A6047F0B"
+    },
+    {
+      "class": "rectangle",
+      "id": "EE45D6F2-D395-4483-A2BA-700AFA5E4020"
+    },
+    {
+      "class": "rectangle",
+      "id": "991F67B7-262D-4CDB-8694-1A583974F5A1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CB7E56F-1854-4F6F-9DA5-6E74A84C8759"
+    }
+  ],
+  "name": "Group 15",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "33E6CC2E-448F-4DCD-A8F8-BEAC91AA0B51",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 40,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "02B1BFA6-F77F-40AD-BD26-A2FA2B29EA77",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C795856-5492-413D-AD15-890D90DFEA93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B56FDDAA-8E10-4B10-B066-E12EFA80C904",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AEFEFAAE-3600-4F63-B12E-436BD442FCD1",
+    "height": 23.43738506354488,
+    "width": 32.75488482633299,
+    "x": 0,
+    "y": 51.15038856473645
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3EC13753-AEAC-4C5B-A508-DF6E77EB72F2"
+    },
+    {
+      "class": "shapePath",
+      "id": "57C317E0-0E79-4701-9D3A-79C7C3CF2D09"
+    }
+  ],
+  "name": "Combined Shape Copy 17",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "800DEFE8-BD12-4311-8AD2-98642ECA51E3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5920650959014893,
+          "green": 0.5919613242149353,
+          "red": 0.5920420289039612
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 0.95
+      }
+    ],
+    "do_objectID": "09DEEFBC-2622-4852-8D5E-31CBF7B9D668",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3136292397975922,
+          "green": 0.211875855922699,
+          "red": 0.2150108516216278
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0.30006119676928722}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.688127338886261,
+                "green": 0.5440301895141602,
+                "red": 0.5490458607673645
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8995227217674255,
+                "green": 0.6757470965385437,
+                "red": 0.6832090020179749
+              },
+              "position": 0.1825887917619551
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3136292397975922,
+                "green": 0.211875855922699,
+                "red": 0.2150108516216278
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.60131665829019565, 0.59527148808873465}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 15.27689,
+            "enabled": 1,
+            "modelID": "constraint_87712b59-c536-4f99-bdb7-c322f4d6fe3e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 21.35563
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_7c651bae-bdfb-4aa7-b7fd-9b0781e72246",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}

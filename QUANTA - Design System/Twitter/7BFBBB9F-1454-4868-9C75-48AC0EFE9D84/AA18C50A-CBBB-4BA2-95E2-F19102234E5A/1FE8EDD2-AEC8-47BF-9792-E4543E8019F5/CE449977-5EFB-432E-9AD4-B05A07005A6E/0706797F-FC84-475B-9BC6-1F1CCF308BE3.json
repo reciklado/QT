@@ -1,0 +1,145 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0706797F-FC84-475B-9BC6-1F1CCF308BE3",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6AB3848B-905E-4311-AC3D-9597874B8858",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8E0A15C-5A0B-49D5-8CF6-69DA3D02DDDF",
+    "height": 6.084000000000001,
+    "width": 6.171857463524136,
+    "x": 12.34371492704827,
+    "y": 17.745
+  },
+  "hasClippingMask": false,
+  "isClosed": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Fill 57 Copy 2",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.49084136343755597, 1.0000000000000051}",
+      "curveMode": 4,
+      "curveTo": "{0.50038981947714978, 1.0000000000000051}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.50038981947714978, 1.0000000000000051}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.19646229107039892, 0.98334070639415327}",
+      "curveMode": 4,
+      "curveTo": "{0.48131017404541115, 0.99956113557413995}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.47146818499917514, 0.9991222711482739}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.016543824646222456, 0.19751006543952002}",
+      "curveMode": 2,
+      "curveTo": "{-0.014812407122137387, 0.74679278085268863}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.00081390881969416672, 0.4716598949891353}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.80374754851806673, 0.016557485366687337}",
+      "curveMode": 2,
+      "curveTo": "{0.2515774297293204, -0.015304071951142622}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.52841358828774831, 0.00086369349773957147}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.98409768112848128, 0.79280332726041969}",
+      "curveMode": 3,
+      "curveTo": "{1.0147805136463084, 0.25319318379332584}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.99918873099937611, 0.52827340592577476}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.50038981947714978, 1.0000000000000051}",
+      "curveMode": 4,
+      "curveTo": "{0.76510479152600286, 1.0000000000000051}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.50038981947714978, 1.0000000000000051}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5CED8754-4952-44F7-9CCE-0355410054F4",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.0544,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "BECA6A21-86AD-4851-9F5E-2503CCA90B62",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9999368786811829,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

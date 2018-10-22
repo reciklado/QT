@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "12BB9F48-949E-4BC8-815C-A17F305894A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "961FE0CE-3E5E-44BD-B419-61144C65D0DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1D802D6-A9B2-4D51-8674-E083B5B40EEB",
+    "height": 263,
+    "width": 236,
+    "x": 3352,
+    "y": 1845
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "polygon",
+      "id": "951B7672-2939-4D84-91BD-561294245256"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B2B9D82-10B2-4F3C-B7AE-8BFEC92C9C72"
+    }
+  ],
+  "name": "Group 36",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0B15E329-5C84-4A83-B4AB-71B26C1FA5AF",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 40,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8880329A-2956-4FE6-9A54-70DB822EBD5B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

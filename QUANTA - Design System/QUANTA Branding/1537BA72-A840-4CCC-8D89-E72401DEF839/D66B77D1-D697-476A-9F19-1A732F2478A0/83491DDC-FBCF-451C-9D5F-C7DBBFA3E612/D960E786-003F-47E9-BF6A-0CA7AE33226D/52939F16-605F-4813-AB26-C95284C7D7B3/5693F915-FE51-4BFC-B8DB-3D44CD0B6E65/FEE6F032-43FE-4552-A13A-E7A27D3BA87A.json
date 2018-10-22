@@ -1,0 +1,84 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "FEE6F032-43FE-4552-A13A-E7A27D3BA87A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD6B6548-A6CA-4655-BB95-26EDEEB6C280",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C0BCF89F-D03B-42F9-9D84-6AE7465DDF2F",
+    "height": 512,
+    "width": 530,
+    "x": 902,
+    "y": 26
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/d8a0756069933f1f7a07564b68de652d58bed900.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0.09417229729729737,
+      "contrast": 1.298986486486486,
+      "do_objectID": "0CCA9636-A924-4891-B54E-56C39CFBFC99",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 0
+    },
+    "do_objectID": "539BC8AD-430C-43AE-8503-6A7A0F28D46E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 512,
+            "enabled": 1,
+            "modelID": "constraint_4ac241bb-711b-4084-8c85-c95642425086",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 529.92
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8c2d32e4-f4e0-4d2f-9dcc-f4f099ec54a6",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

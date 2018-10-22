@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DFA05472-82D6-447F-992B-34A531953F9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E224367-52DB-4212-B878-06FAB8768E2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4985CAFB-4B76-4ADF-8206-33043509E18B",
+    "height": 79,
+    "width": 557,
+    "x": 406,
+    "y": 692
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "177D69BC-601C-48A4-AC3E-B9A1ED663457"
+    },
+    {
+      "class": "group",
+      "id": "D5F2AD78-233F-4570-9F10-A2D753FF51B6"
+    }
+  ],
+  "name": "Group 44",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "19431252-AC47-40D3-BD7F-116870D313E8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.66743648960739,
+      "saturation": 1,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "D93BFCB7-B9A0-4A30-A076-1ADC0EFD3A05",
+      "opacity": 0.3092633928571429
+    },
+    "do_objectID": "97CCEB4C-8598-462D-9F59-74CC9F790C01",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

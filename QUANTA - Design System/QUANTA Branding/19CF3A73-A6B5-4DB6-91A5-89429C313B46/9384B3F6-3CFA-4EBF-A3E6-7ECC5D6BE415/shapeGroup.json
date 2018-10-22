@@ -1,0 +1,165 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9384B3F6-3CFA-4EBF-A3E6-7ECC5D6BE415",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F952B487-18D1-4798-8785-665361237B2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "19D203A7-17B5-4587-9967-B26EC31BFEF7",
+    "height": 69.0000000000001,
+    "width": 441.9999999999999,
+    "x": 1850,
+    "y": 2058
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "ABBF1B73-8313-4182-AF1C-A33964FD8B9F"
+    },
+    {
+      "class": "oval",
+      "id": "7F054B1E-69B4-4D61-A7CD-C0FFF1B71119"
+    },
+    {
+      "class": "oval",
+      "id": "55FC165C-680D-499A-AF6D-238645025A32"
+    },
+    {
+      "class": "shapePath",
+      "id": "ADDA69BD-FBDD-4E77-A541-766C51CA2F69"
+    },
+    {
+      "class": "shapePath",
+      "id": "89970E47-FC5E-4BA1-883A-751DF95F52E0"
+    },
+    {
+      "class": "shapePath",
+      "id": "DF4C7DDE-E69A-44BE-9A8F-BBA635A5E9A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "A0F28AF2-7C8A-4B43-997A-190D634EAC25"
+    },
+    {
+      "class": "shapePath",
+      "id": "31895B00-CD53-4BB8-A5BD-A9DACC5D075D"
+    },
+    {
+      "class": "shapePath",
+      "id": "F3668849-58A7-4583-AE77-BB5B96C05E39"
+    },
+    {
+      "class": "shapePath",
+      "id": "01C0073A-D6E1-4789-983B-2AF6882B0F61"
+    }
+  ],
+  "name": "Combined Shape Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "71B2754D-2BEA-4619-B2D1-092E8FFD8DEB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.065921327020627,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "4F5AFA9B-9A31-411F-9EA7-A65EAC444E24",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9999368786811829,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "7E653F0B-3BC7-4B83-BC92-BD5A151F0B3C",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8542995323,
+          "green": 0.7468312181,
+          "red": 0.111607708
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Multicolore",
+            "size": 106.7699966430664
+          }
+        },
+        "kerning": 7.119999885559082,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 69,
+            "enabled": 1,
+            "modelID": "constraint_96fb4049-fe24-4373-a953-a41735eb2a04",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 442
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_6ecccd54-6d35-4f72-b303-16107be8d53c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "93CE166A-BAB6-4A2A-B3AF-39528405B2CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A5B9DEE-4079-471A-A5D1-9626B2C43834",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29D815BB-AFD3-4FF5-9F45-CE411F0BE6AF",
+    "height": 48,
+    "width": 265,
+    "x": 8,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ui / dropdown / avatar list",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D25B313-1CC8-407F-B8A0-393F69E8C8E0",
+      "overrideName": "52B03ED2-2701-4A5E-808A-CA470642F00A/17BBD9DF-583F-46AD-B18E-48492EEBDFAC_stringValue",
+      "value": "Lawrence Gibson"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6DE8155B-67BE-488D-8200-160078EE5887",
+      "overrideName": "52B03ED2-2701-4A5E-808A-CA470642F00A/1BDE3596-85BB-4E05-85B9-CB90FB2B0BAB/EB4609A2-E7AD-45D7-88FD-5096EE5FFB5E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/40d96a255891ef822fd9b286107d3344f9b4148f.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AC929720-62F4-481B-B191-D6166921C716",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7E0550C8-4B4B-4040-8C56-9F5F089D2637",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

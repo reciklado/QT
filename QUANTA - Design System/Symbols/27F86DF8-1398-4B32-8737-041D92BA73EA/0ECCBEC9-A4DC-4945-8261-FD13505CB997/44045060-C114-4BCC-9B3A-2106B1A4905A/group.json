@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "44045060-C114-4BCC-9B3A-2106B1A4905A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E1D36BA-65CE-40B3-A813-AD1F118BDB6E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "36BE7AD5-D411-4E9C-A545-827C363ABBF8",
+    "height": 39,
+    "width": 243,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B2C68386-19C1-4D7A-BFA3-E4652B9CC6B4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA903535-B41F-4BF3-AAD3-E5A20CEF10EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4AADF64F-DBC5-4C29-AF31-759A4B47304D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C54BF872-18A3-461B-B651-E3E92595CE61"
+    }
+  ],
+  "name": "Group 12",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B770A61F-0E50-431F-8087-E81D6406A322",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

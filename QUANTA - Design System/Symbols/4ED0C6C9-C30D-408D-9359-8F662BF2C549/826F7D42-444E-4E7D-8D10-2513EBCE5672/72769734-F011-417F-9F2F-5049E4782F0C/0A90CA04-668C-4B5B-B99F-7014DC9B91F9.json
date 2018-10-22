@@ -1,0 +1,139 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0A90CA04-668C-4B5B-B99F-7014DC9B91F9",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EEF3A730-7260-4ECE-B978-E8D6A6E6BFA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "74AD36DC-63D6-48DE-90B6-D334C50C4C52",
+    "height": 20.80340314009785,
+    "width": 11.60688084954693,
+    "x": 6.359774865847315,
+    "y": 5.456746166032643e-14
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.93253673077325061, -0.0053575850094390127}",
+      "curveMode": 4,
+      "curveTo": "{0.96554410069728436, 0.0050614102156437751}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.96554410069728436, 0.0050614102156437751}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.87141452383667672, 0.018825248926274213}",
+      "curveMode": 4,
+      "curveTo": "{0.89043338416868911, 0.00083229776266133498}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.87141452383667672, 0.018825248926274213}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.0090346734898210154, 0.96291693434019621}",
+      "curveMode": 4,
+      "curveTo": "{0.010053095756436205, 0.94488553669973452}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.010053095756436205, 0.94488553669973452}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.079720008059567721, 1.0035548603657061}",
+      "curveMode": 2,
+      "curveTo": "{-0.0011101483514821761, 0.99048305823829719}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.035273758370624644, 0.99636536919563334}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.12940333523123623, 0.98260153048500298}",
+      "curveMode": 4,
+      "curveTo": "{0.1103844748992238, 1.0006329281254647}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.12940333523123623, 0.98260153048500298}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.0097836236434892, 0.038471398594236518}",
+      "curveMode": 4,
+      "curveTo": "{0.99076476331147667, 0.056502796234698185}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.99076476331147667, 0.056502796234698185}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.96554410069728436, 0.0050614102156437751}",
+      "curveMode": 4,
+      "curveTo": "{0.99848256170707328, 0.015480405440730934}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.96554410069728436, 0.0050614102156437751}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E935D19E-CECD-4155-8A70-10D947EB2944",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

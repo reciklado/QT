@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D5A09FE9-8C59-48C9-98B9-74E3DE197634",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E125090-9783-4E64-9B4A-79115CF602B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1DF58DFA-1A71-4799-BB73-FD9DADA475BE",
+    "height": 640,
+    "width": 1276,
+    "x": 3578,
+    "y": 1542
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8E188428-1D0F-4372-B6D3-13B92FB40970"
+    },
+    {
+      "class": "bitmap",
+      "id": "845AEFE8-D472-41DA-830F-8DAFC2B4C3B2"
+    },
+    {
+      "class": "text",
+      "id": "BAE3ABBB-5360-440C-B020-D5B87AA0BBD2"
+    }
+  ],
+  "name": "Bitmap + Combined Shape Copy 4 + Instant liquidity Mask Copy Copy Copy Copy Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A9E1639F-10B9-432A-B29A-956CA90FBDB0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.2,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "D09B1640-5DFE-49CD-97BA-EF9CD96B8458",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

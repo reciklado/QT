@@ -1,0 +1,106 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BB5DF97C-F0BB-4749-9E83-94C7B4A68EE9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 3633,
+  "clippingMaskMode": 0,
+  "do_objectID": "9DAF8343-E7D0-4EDE-A82B-131D963EFF0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "944F0C71-E792-490E-A5F1-97CB214A2402",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7D0C2BB-0958-4621-9A67-F15ED70A99D4",
+    "height": 32,
+    "width": 32,
+    "x": -1247,
+    "y": 2258
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "AFB46D69-1886-4D74-9400-3116B3EA2EDE",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 1
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BC3CEB9B-2325-4890-8CBC-9B166C010310",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C3A44F7B-F047-4575-A86A-02B5CE807ADE"
+    }
+  ],
+  "name": "Icon / Solid / Eye",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7EDFA5D7-9622-41D2-B139-F562CB4EA0E9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.33333333333333,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "11A2E9B2-B2C8-46FA-88BB-0D3BB6AF79EF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "06AB831A-747E-4615-B65B-1D2FC39F2CB4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "332F5BD3-EDA3-4ABC-95CB-0FD73307CF00",
+    "guides": [
+    ]
+  }
+}
